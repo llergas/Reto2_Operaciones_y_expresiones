@@ -1,0 +1,9 @@
+Fecha / Hora: 2020-09-12 14:07:35.753868 
+Nombre del plato: Sancocho 
+Numeros de platos: 3 
+Precio del plato: 7000.0
+
+Precio total: 21000.0
+IVA: 3990.0
+Popina: 4200.0
+Total: 29190.0 

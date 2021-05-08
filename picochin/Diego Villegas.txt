@@ -1,0 +1,9 @@
+Fecha / Hora: 2021-05-08 13:29:30.371204 
+Nombre del plato: Pollo 
+Numeros de platos: 2 
+Precio del plato: 9800.0
+
+Precio total: 19600.0
+IVA: 3724.0
+Popina: 3920.0
+Total: 27244.0 
